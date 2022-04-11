@@ -1,0 +1,60 @@
+h1	{
+	color: #B7950B;
+	background-color: black;
+	text-align: center;
+
+}
+#photo {
+	text-align: center;
+}
+
+
+p {
+
+	color: #B7950B;
+	background-color: black;
+	text-align: center;
+
+}
+#premier {
+	text-align: center;
+	width: 300 PX;
+	height: 100 PX;
+	background-color: #B7950B;
+	padding: 50px;
+	margin: 50px;
+	color: white ;
+}
+
+#Expériences {
+	text-align: center;
+}
+
+#deuxieme {
+	background-color:#B7950B;
+	text-align: center;
+	color: white;
+
+}
+
+#troisieme {
+	background-color: #B7950B;
+
+}
+h3 {
+	text-align: center;
+}
+
+#quatrieme {
+	text-align: center;
+	
+
+}
+
+
+
+body {
+	background-color: beige;
+}2	
+
+
